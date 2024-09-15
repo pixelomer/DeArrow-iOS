@@ -1,0 +1,9 @@
+*
+!.gitignore
+!control
+!DeArrow-iOS.plist
+!Makefile
+!*.h
+!*.m
+!*.xm
+!README.md
